@@ -1,8 +1,8 @@
-<img src="octocat-edilane.png" alt="Minha octocat">
+<img width="500" src="octocat-edilane.png" alt="Minha octocat">
 
 ```
-  Desenvolvedora web, desbravando este mundo e mergulhando nas possibilidades de criações de soluções eficientes e inovadoras, 
-  sempre buscando explorar novas ferramentas e tecnologias para o aprimoramento do mesmo.
+  Desenvolvedora web, desbravando este mundo e mergulhando nas possibilidades de criações de soluções eficientes 
+  e inovadoras, sempre buscando explorar novas ferramentas e tecnologias para o aprimoramento do mesmo.
   
    
    📚 Cursando desenvolvimento web

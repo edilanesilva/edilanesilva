@@ -13,9 +13,8 @@
    ⚡ Curiosidade: Amo patinar e uma boa conversa entre amigos.
 
 ```
-<br>
+
 <h3> Onde me encontrar:</h3><hr>
-</br>
  <div display="flex">
     <a href="edilanesantos75@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"  alt="gmail logo"  />
@@ -24,8 +23,8 @@
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
     </a>
   </div>
-  </br></br>
-<h3 align="left">Linguagens e ferramentas:</h3><hr></br>
+  
+<h3 align="left">Linguagens e ferramentas:</h3><hr>
 <p align="esquerda">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" /> 
@@ -54,10 +53,10 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"/> 
     </a>
-</p></br></br>
+</p></br>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=edilane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=edilanesilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"  />
 </div><br>
 
 </br>

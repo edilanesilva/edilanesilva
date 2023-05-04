@@ -7,7 +7,7 @@
    
    📚 Cursando desenvolvimento web
    🛠️ Praticando javaScript
-   🌱 Atualmente aprendendo React e SASS
+   🌱 Aprendendo React e SASS
    😄 Pronomes: ela / dela
    👯 Estou procurando colaborar em código aberto. 
    ⚡ Curiosidade: Amo patinar e uma boa conversa entre amigos.

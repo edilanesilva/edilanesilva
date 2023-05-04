@@ -1,4 +1,4 @@
-<img width="500" src="avatar.png" alt="Minha octocat">
+<img width="500" align="center" src="avatar.png" alt="Minha octocat">
 
 ```
   Desenvolvedora web, desbravando este mundo e mergulhando nas possibilidades de criações e soluções eficientes 

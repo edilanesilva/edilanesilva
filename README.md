@@ -9,7 +9,6 @@
    🛠️ Praticando javaScript
    🌱 Aprendendo React e SASS
    😄 Pronomes: ela / dela
-   👯 Estou procurando colaborar em algum projeto. 
    ⚡ Curiosidade: Amo patinar e uma boa conversa entre amigos.
 
 ```

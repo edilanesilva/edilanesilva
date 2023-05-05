@@ -8,6 +8,7 @@
    📚 Cursando desenvolvimento web
    🛠️ Praticando javaScript
    🌱 Aprendendo React e SASS
+   💞️ Estou procurando colaborar em Projetos front end
    😄 Pronomes: ela / dela
    ⚡ Curiosidade: Amo patinar e uma boa conversa entre amigos.
 

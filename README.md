@@ -9,8 +9,7 @@ Acredito que o aprendizado contínuo é essencial para acompanhar o ritmo aceler
 Além disso, tenho uma mentalidade curiosa e criativa, o que me permite abordar problemas 
 de forma única e encontrar soluções inovadoras. 
 Acredito que a combinação de criatividade e técnica é fundamental para construir experiências digitais excepcionais.
-Se você está em busca de alguém apaixonado por tecnologia e com sede de explorar o desconhecido,
-estou pronta para embarcar nessa jornada com você.
+
 
   
    

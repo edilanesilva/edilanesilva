@@ -1,8 +1,14 @@
 <img width="500" align="center" src="avatar.png" alt="Minha octocat">
 
 ```
-  Desenvolvedora web, desbravando este mundo e mergulhando nas possibilidades de criações e soluções eficientes 
-  inovadoras, sempre buscando explorar novas ferramentas e tecnologias para o aprimoramento do mesmo.
+Desenvolvedora web, estou imersa nesse fascinante mundo, explorando constantemente as infinitas possibilidades de criação e buscando soluções inovadoras e eficientes. 
+Estou sempre ansiosa para descobrir e utilizar novas ferramentas e tecnologias que possam aprimorar ainda mais meu trabalho.
+Minha paixão pela área me impulsiona a aprender constantemente e a aperfeiçoar minhas habilidades. 
+Acredito que o aprendizado contínuo é essencial para acompanhar o ritmo acelerado da evolução tecnológica.
+Além disso, tenho uma mentalidade curiosa e criativa, o que me permite abordar problemas de forma única e encontrar soluções inovadoras. 
+Acredito que a combinação de criatividade e técnica é fundamental para construir experiências digitais excepcionais.
+Se você está em busca de alguém apaixonado por tecnologia e com sede de explorar o desconhecido, estou pronta para embarcar nessa jornada com você.
+
   
    
    📚 Cursando desenvolvimento web

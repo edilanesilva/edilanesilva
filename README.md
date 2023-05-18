@@ -5,9 +5,9 @@ Desenvolvedora web, estou imersa nesse fascinante mundo, explorando constantemen
 de criação e buscando soluções inovadoras e eficientes. 
 Estou sempre ansiosa para descobrir e utilizar novas ferramentas e tecnologias que possam aprimorar ainda mais meu trabalho.
 Minha paixão pela área me impulsiona a aprender constantemente e a aperfeiçoar minhas habilidades. 
-Acredito que o aprendizado contínuo é essencial para acompanhar o ritmo acelerado da evolução tecnológica.
+
 Além disso, tenho uma mentalidade curiosa e criativa, o que me permite abordar problemas 
-de forma única e encontrar soluções inovadoras. 
+de forma única.
 Acredito que a combinação de criatividade e técnica é fundamental para construir experiências digitais excepcionais.
 
 
@@ -15,7 +15,6 @@ Acredito que a combinação de criatividade e técnica é fundamental para const
    
    📚 Cursando desenvolvimento web
    🛠️ Praticando javaScript
-   🌱 Aprendendo React e SASS
    💞️ Estou procurando colaborar em Projetos front end
    😄 Pronomes: ela / dela
    ⚡ Curiosidade: Amo patinar e uma boa conversa entre amigos.

@@ -1,6 +1,6 @@
 <img width="500" align="center" src="avatar.png" alt="Minha octocat">
 
-Como desenvolvedora web, mergulho de cabeça nesse fascinante mundo, explorando incansavelmente as infinitas possibilidades de criação e buscando soluções inovadoras e eficientes. Estou sempre ávida por descobrir e utilizar novas ferramentas e tecnologias que possam elevar ainda mais o nível do meu trabalho. Minha paixão por essa área impulsiona-me a aprender de forma contínua e a aprimorar minhas habilidades.
+Desenvolvedora web, mergulho de cabeça nesse fascinante mundo, explorando incansavelmente as infinitas possibilidades de criação e buscando soluções inovadoras e eficientes. Estou sempre ávida por descobrir e utilizar novas ferramentas e tecnologias que possam elevar ainda mais o nível do meu trabalho. Minha paixão por essa área impulsiona-me a aprender de forma contínua e a aprimorar minhas habilidades.
 
 Além disso, possuo uma mente curiosa e criativa, o que me capacita a abordar problemas de maneiras únicas e originais. Acredito firmemente que a combinação de criatividade e técnica é essencial para construir experiências digitais verdadeiramente excepcionais.
 

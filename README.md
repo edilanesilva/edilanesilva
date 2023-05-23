@@ -1,9 +1,10 @@
-<img width="500" align="center" src="avatar.png" alt="Minha octocat">
+<h3>Hello Devs! </h3> </hr>
+<P>Desenvolvedora web, estou imersa nesse fascinante mundo, explorando constantemente as infinitas possibilidades de criação e buscando soluções inovadoras e eficientes. 
+  Minha constante ansiedade em descobrir e utilizar novas ferramentas e tecnologias é o que impulsiona meu trabalho e minha paixão pela área.
 
-Desenvolvedora web, mergulho de cabeça nesse fascinante mundo, explorando incansavelmente as infinitas possibilidades de criação e buscando soluções inovadoras e eficientes. Estou sempre ávida por descobrir e utilizar novas ferramentas e tecnologias que possam elevar ainda mais o nível do meu trabalho. Minha paixão por essa área impulsiona-me a aprender de forma contínua e a aprimorar minhas habilidades.
+Minha abordagem aos problemas é guiada por uma mentalidade curiosa e criativa, o que me permite encontrar soluções únicas. Para mim, acreditar na combinação perfeita entre criatividade e habilidades técnicas é essencial para criar experiências digitais excepcionais. 
 
-Além disso, possuo uma mente curiosa e criativa, o que me capacita a abordar problemas de maneiras únicas e originais. Acredito firmemente que a combinação de criatividade e técnica é essencial para construir experiências digitais verdadeiramente excepcionais.
-
+Estou sempre empenhada em aprender e aprimorar minhas habilidades, pois reconheço que a evolução constante é crucial para se destacar no campo do desenvolvimento web. Estou pronta para enfrentar desafios e superar obstáculos, sempre em busca de aperfeiçoamento e crescimento profissional.</P>
 
   
    

@@ -1,25 +1,18 @@
 <img width="500" align="center" src="avatar.png" alt="Minha octocat">
 
-```
-Desenvolvedora web, estou imersa nesse fascinante mundo, explorando constantemente as infinitas possibilidades 
-de criação e buscando soluções inovadoras e eficientes. 
-Estou sempre ansiosa para descobrir e utilizar novas ferramentas e tecnologias que possam aprimorar ainda mais meu trabalho.
-Minha paixão pela área me impulsiona a aprender constantemente e a aperfeiçoar minhas habilidades. 
+Como desenvolvedora web, mergulho de cabeça nesse fascinante mundo, explorando incansavelmente as infinitas possibilidades de criação e buscando soluções inovadoras e eficientes. Estou sempre ávida por descobrir e utilizar novas ferramentas e tecnologias que possam elevar ainda mais o nível do meu trabalho. Minha paixão por essa área impulsiona-me a aprender de forma contínua e a aprimorar minhas habilidades.
 
-Além disso, tenho uma mentalidade curiosa e criativa, o que me permite abordar problemas 
-de forma única.
-Acredito que a combinação de criatividade e técnica é fundamental para construir experiências digitais excepcionais.
+Além disso, possuo uma mente curiosa e criativa, o que me capacita a abordar problemas de maneiras únicas e originais. Acredito firmemente que a combinação de criatividade e técnica é essencial para construir experiências digitais verdadeiramente excepcionais.
 
 
   
    
-   📚 Cursando desenvolvimento web
-   🛠️ Praticando javaScript
-   💞️ Estou procurando colaborar em Projetos front end
-   😄 Pronomes: ela / dela
-   ⚡ Curiosidade: Amo patinar e uma boa conversa entre amigos.
+   📚 Cursando desenvolvimento web </br>
+   🛠️ Praticando javaScript </br>
+   💞️ Estou procurando colaborar em Projetos front end </br>
+   ⚡ Curiosidade: Amo patinar e assistir documentários sobre teorias da conspiração NOM.
 
-```
+
 
 <h3> Onde me encontrar:</h3><hr>
  <div display="flex">

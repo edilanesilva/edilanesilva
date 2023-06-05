@@ -4,9 +4,7 @@
 
 Minha abordagem aos problemas é guiada por uma mentalidade curiosa e criativa, o que me permite encontrar soluções únicas. Para mim, acreditar na combinação perfeita entre criatividade e habilidades técnicas é essencial para criar experiências digitais excepcionais. 
 
-Estou sempre empenhada em aprender e aprimorar minhas habilidades, pois reconheço que a evolução constante é crucial para se destacar no campo do desenvolvimento web. Estou pronta para enfrentar desafios e superar obstáculos, sempre em busca de aperfeiçoamento e crescimento profissional.</P>
 
-  
    
    📚 Cursando desenvolvimento web </br>
    🛠️ Praticando javaScript </br>

@@ -1,17 +1,11 @@
 <h3>Hello Devs! </h3> </hr>
 <P>Desenvolvedora web, estou imersa nesse fascinante mundo, explorando constantemente as infinitas possibilidades de criação e buscando soluções inovadoras e eficientes. 
-  Minha constante ansiedade em descobrir e utilizar novas ferramentas e tecnologias é o que impulsiona meu trabalho e minha paixão pela área.
 
-Minha abordagem aos problemas é guiada por uma mentalidade curiosa e criativa, o que me permite encontrar soluções únicas. Para mim, acreditar na combinação perfeita entre criatividade e habilidades técnicas é essencial para criar experiências digitais excepcionais. 
-
-
+Minha abordagem aos problemas é guiada por uma mentalidade curiosa e criativa, o que me permite encontrar soluções únicas, acreditar na combinação perfeita entre criatividade e habilidades técnicas é essencial para criar experiências digitais excepcionais. 
    
    📚 Cursando desenvolvimento web </br>
    🛠️ Praticando javaScript </br>
    💞️ Estou procurando colaborar em Projetos front end </br>
-   ⚡ Curiosidade: Amo patinar e assistir documentários sobre teorias da conspiração NOM.
-
-
 
 <h3> Onde me encontrar:</h3><hr>
  <div display="flex">
@@ -54,7 +48,7 @@ Minha abordagem aos problemas é guiada por uma mentalidade curiosa e criativa, 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edilanesilva&show_icons=true&theme=radical)
 
-<p>Obrigada pela visita! 😊</p>
+
   
 
 

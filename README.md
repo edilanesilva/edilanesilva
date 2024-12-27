@@ -7,12 +7,7 @@ Minha abordagem aos problemas é guiada por uma mentalidade curiosa e criativa, 
    🛠️ Praticando javaScript </br>
    💞️ Estou procurando colaborar em Projetos front end </br>
 
-<h3> Onde me encontrar:</h3><hr>
- <div display="flex">
-    <a href="edilanesantos75@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"  alt="gmail logo"  />
-    </a>
- </div>
+
   
 <h3 align="left">Linguagens e ferramentas:</h3><hr>
 <p align="esquerda">
